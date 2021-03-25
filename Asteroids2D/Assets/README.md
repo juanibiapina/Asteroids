@@ -1,0 +1,3 @@
+- bugs
+    - the player prefab has a rotation. Looks like I programmed all projectiles relative to this rotation, so they don't work on the alien properly.
+    - asteroids sometimes go to the edge and keep teleporting outside of the screen forever
